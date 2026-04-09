@@ -12,3 +12,5 @@ This is a simple registration form built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+- ## Live demo
+- 🌐 Live Demo: https://rithikaroshini14.github.io/inventeron-internship-projects/registration-form/
