@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Advanced Captcha</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h2>Captcha Verification</h2>
+
+  <canvas id="captchaCanvas"></canvas>
+
+  <input type="text" id="input" placeholder="Enter Captcha">
+  
+  <div>
+    <button onclick="validateCaptcha()">Submit</button>
+    <button onclick="generateCaptcha()">Refresh</button>
+  </div>
+
+  <p id="message"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
